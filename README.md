@@ -3,7 +3,14 @@
 <!--
 **deborahscalioni/deborahscalioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborah_scalioni&hide=html&layout=compact&theme=buefy" />  
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborahscalioni&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=deborahscalioni&theme=buefy"/></td>
+    </tr>   
+</table>
+</center> 
 
 Here are some ideas to get you started:
 
