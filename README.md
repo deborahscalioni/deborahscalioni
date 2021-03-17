@@ -21,11 +21,11 @@ Gosto de incentivar pessoas, principalmente mulheres, a entrarem para a TI e mos
 </table>
 </center> 
 
-<a href="https://www.instagram.com/deborahscalioni/"><img src="instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/deborahscalioni)  
+<a href="https://www.instagram.com/deborahscalioni/"><img src="instagram.png" width="16"></a> [Instagram](https://www.instagram.com/deborahscalioni)  
 
-<a href="https://www.linkedin.com/in/deborahscalioni"><img src="linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/deborahsca)  
+<a href="https://www.linkedin.com/in/deborahscalioni"><img src="linkedin.png" width="16"> </a> [LinkedIn](https://www.linkedin.com/in/deborahsca)  
 
-<a href="mailto:deborahscalioni@gmail.com"><img src="email.png" width="16"></img></a> [Email](mailto:deborahscalioni@gmail.com)  
+<a href="mailto:deborahscalioni@gmail.com"><img src="email.png" width="16"> </a> [Email](mailto:deborahscalioni@gmail.com)  
 
 ---  
 
