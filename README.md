@@ -1,5 +1,16 @@
 ![capa github](https://github.com/deborahscalioni/deborahscalioni/blob/main/Capa%20Portfolio%20D%C3%A9borah%20Scalioni.png)
 
+### Olá! Seja bem vindo! <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
+
+---
+
+Sou Analista de Dados, graduada em Sistemas de Informação pela UFLA e estou cursando um MBAem Data Science & Analytics. 
+Me apaixonei pelo mundo dos dados e estou buscando conhecimentos em Data Science e quero colaborar alguns projetos que desenvolvo em Data Analytics.
+
+Gosto de incentivar mulheres a entrarem para a TI e mostrar como é incrível trabalhar no mundo dos Dados! :revolving_hearts:   
+
+---
+
 <center>
 <table>
     <tr>
@@ -9,19 +20,6 @@
 </table>
 </center> 
 
-### Olá! Seja bem vindo! <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
-
----
-
-Sou Analista de Dados, graduada em Sistemas de Informação e MBA em andamento em Data Science & Analytics. 
-Estou aprendendo sobre Data Science e quero colaborar alguns projetos que estou desenvolvendo em Data Analytics.
-
----
-
-Incentivo mulheres a entrarem para a TI e acreditarem em si mesmas e mostrar como é incrível trabalhar no mundo dos Dados! :revolving_hearts:   
-
----
- 
 <a href="https://www.instagram.com/deborahscalioni/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/deborahscalioni)  
 
 <a href="https://www.linkedin.com/in/deborahscalioni"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/deborahsca)  
