@@ -1,5 +1,4 @@
-<!--
-**deborahscalioni/deborahscalioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![capa github](https://github.com/deborahscalioni/deborahscalioni/blob/main/Capa%20Portfolio%20D%C3%A9borah%20Scalioni.png)
 
 <center>
 <table>
@@ -10,16 +9,11 @@
 </table>
 </center> 
 
-### Hi there 👋
+### Olá! Seja bem vindo! <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou Analista de Dados, graduada em Sistemas de Informação e MBA em andamento em Data Science & Analytics. 
+Estou aprendendo sobre Data Science e quero colaborar alguns projetos que estou desenvolvendo em Data Analytics.
+
+---
