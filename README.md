@@ -1,4 +1,4 @@
-![capa github](https://github.com/deborahscalioni/deborahscalioni/blob/main/Capa%20Portfolio%20D%C3%A9borah%20Scalioni.png)
+![capa github](Capa%20Portfolio%20D%C3%A9borah%20Scalioni.png)
 
 ### Olá! Seja bem vindo! :wave:
 
