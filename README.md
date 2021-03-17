@@ -4,8 +4,9 @@
 
 ---
 
-Sou Analista de Dados, graduada em Sistemas de Informação pela UFLA e estou cursando um MBAem Data Science & Analytics. 
-Me apaixonei pelo mundo dos dados e estou buscando conhecimentos em Data Science e quero colaborar alguns projetos que desenvolvo em Data Analytics.
+Sou Analista de Dados, graduada em Sistemas de Informação pela UFLA e estou cursando um MBA em Data Science & Analytics. 
+Me apaixonei pelo mundo dos dados e estou buscando aprender mais sobre Data Science.
+Quero colaborar alguns projetos que desenvolvo em Data Analytics.
 
 Gosto de incentivar mulheres a entrarem para a TI e mostrar como é incrível trabalhar no mundo dos Dados! :revolving_hearts:   
 
