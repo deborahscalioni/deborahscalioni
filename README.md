@@ -1,6 +1,6 @@
 ![capa github](https://github.com/deborahscalioni/deborahscalioni/blob/main/Capa%20Portfolio%20D%C3%A9borah%20Scalioni.png)
 
-### Olá! Seja bem vindo! <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
+### Olá! Seja bem vindo! :wave:
 
 ---
 
@@ -21,11 +21,11 @@ Gosto de incentivar pessoas, principalmente mulheres, a entrarem para a TI e mos
 </table>
 </center> 
 
-<a href="https://www.instagram.com/deborahscalioni/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/deborahscalioni)  
+<a href="https://www.instagram.com/deborahscalioni/"><img src="https://github.com/deborahscalioni/deborahscalioni/blob/main/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/deborahscalioni)  
 
-<a href="https://www.linkedin.com/in/deborahscalioni"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/deborahsca)  
+<a href="https://www.linkedin.com/in/deborahscalioni"><img src="https://github.com/deborahscalioni/deborahscalioni/blob/main/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/deborahsca)  
 
-<a href="mailto:deborahscalioni@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:deborahscalioni@gmail.com)  
+<a href="mailto:deborahscalioni@gmail.com"><img src="https://github.com/deborahscalioni/deborahscalioni/blob/main/email.png" width="16"></img></a> [Email](mailto:deborahscalioni@gmail.com)  
 
 ---  
 
