@@ -22,9 +22,9 @@ Incentivo mulheres a entrarem para a TI e acreditarem em si mesmas e mostrar com
 
 ---
  
-<a href="https://www.instagram.com/deborahscalioni/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/dii_lua)  
+<a href="https://www.instagram.com/deborahscalioni/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/deborahscalioni)  
 
-<a href="https://www.linkedin.com/in/deborahscalioni"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/leticiasilvar)  
+<a href="https://www.linkedin.com/in/deborahscalioni"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/deborahscalioni)  
 
 <a href="mailto:deborahscalioni@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:deborahscalioni@gmail.com)  
 
