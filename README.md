@@ -8,7 +8,7 @@ Sou Analista de Dados, graduada em Sistemas de Informação pela UFLA e estou cu
 Me apaixonei pelo mundo dos dados e estou buscando aprender mais sobre Data Science.
 Quero colaborar alguns projetos que desenvolvo em Data Analytics.
 
-Gosto de incentivar mulheres a entrarem para a TI e mostrar como é incrível trabalhar no mundo dos Dados! :revolving_hearts:   
+Gosto de incentivar pessoas, principalmente mulheres, a entrarem para a TI e mostrar como é incrível trabalhar no mundo dos Dados! :revolving_hearts:   
 
 ---
 
